@@ -36,6 +36,5 @@ public class BranchingExample {
             System.out.print(i + " ");
 
         }
-
     }
 }
