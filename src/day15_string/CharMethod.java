@@ -3,6 +3,7 @@ package day15_string;
 public class CharMethod {
     public static void main(String[] args) {
 
+
         String str = "loop";
         //            0123
         //               (number of characters - 1)
