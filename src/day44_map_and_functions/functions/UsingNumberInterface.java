@@ -32,6 +32,10 @@ public class UsingNumberInterface {
 
 
 
+
+
+
+
         cube.apply(5);
 
 
